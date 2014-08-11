@@ -1,0 +1,4 @@
+[Project]
+Name=hough_detectors
+Manager=KDevCustomMakeManager
+VersionControl=kdevgit
